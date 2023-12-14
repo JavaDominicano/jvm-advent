@@ -8,6 +8,9 @@ Queremos enfocarnos en publicar contenido relacionado a las preguntas más frecu
 ## Agradecimientos
 Queremos expresar nuestro sincero agradecimiento a todos los miembros de la comunidad Java Dominicana que se unieron a la iniciativa, gracias a su esfuerzo y dedicación ha sido posible.
 
+<a href="https://github.com/JavaDominicano/jvm-advent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JavaDominicano/jvm-advent" />
+</a>
 
 ## 🤝 Communidad
 
