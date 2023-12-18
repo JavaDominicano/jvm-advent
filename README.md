@@ -16,5 +16,5 @@ Queremos expresar nuestro sincero agradecimiento a todos los miembros de la comu
 
 ## 🤝 Communidad
 
-Unete a la comunidad de [Java Dominicana](https://linktr.ee/javadominicano)
+Únete a la comunidad de [Java Dominicana](https://linktr.ee/javadominicano)
 
